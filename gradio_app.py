@@ -1,3 +1,6 @@
+#SMTP_USER=aura.med.ai.doctor@gmail.com
+#SMTP_PASS=nwdlhupervkudtke
+#
 import gradio as gr
 import os
 from dotenv import load_dotenv
